@@ -1,11 +1,12 @@
+---
+Status: 'Proposed'
+RFC#: '0000'
+Author: 'Your Name'
+Created: 'Sep 14, 2019'
+Implementation: 'http://link-to-your-pull-request.com'
+---
+
 # Sample RFC
-
-> Status: **`Proposed`**
-| RFC#: **0000**
-| Author: **[Your name](https://github.com/your-name)**
-| Created: **Sep 14, 2019**
-
-> Implementation: **[http://link-to-your-pull-request.com](/)**
 
 ## Overview
 
