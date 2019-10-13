@@ -17,8 +17,8 @@ A repository that contains RFCs, guides and templates for your project.
 
 ### Header
 - Status: `Proposed` / `Accepted` / `Implemented` / `Obsolete`
-- RFC# - Unique identifier for RFC (Initially empty, updated when `status:Accepted`)
-- Author - Person who created the RFC with profile link
+- RFC# - Unique identifier for RFC (Initial value is '0000', updated when `status:Accepted`)
+- Author - Person who created the RFC. Separate by comma when there are multiple authors.
 - Created - When the RFC was initialized
 - Implementation - Link to a pull request of implementation (empty while still `status:Proposed`)
 
